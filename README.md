@@ -16,7 +16,7 @@ Desarrollo software a medida: aplicaciones web, CRM, comercio electrónico y sis
 
 | Proyecto | Qué es |
 |---|---|
-| [nemedi-clinic](https://github.com/JuanchoVargas/nemedi-clinic) | ERP/CRM multi-tenant para clínicas estéticas (.NET, React, SQL Server). Vitrina con documentación y capturas; el código es privado. |
+| [nemedi-clinic](https://github.com/JuanchoVargas/nemedi-clinic) | ERP/CRM multi-tenant para clínicas estéticas (.NET, React, SQL Server). Código, pruebas y documentación con capturas. |
 | [ecommerce-disfraces](https://github.com/JuanchoVargas/ecommerce-disfraces) | Caso de estudio de la tienda en línea de Kustom Disfraces (Nuxt, WooCommerce, Mercado Pago, bot de ventas). Vitrina sin código. |
 | [disksafe](https://github.com/JuanchoVargas/disksafe) | Módulo de PowerShell para liberar espacio en `C:` de forma segura: analiza, recomienda, limpia y mueve. |
 
