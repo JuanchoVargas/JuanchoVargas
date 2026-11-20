@@ -14,11 +14,11 @@ Desarrollo software a medida: aplicaciones web, CRM, comercio electrónico y sis
 
 ## Proyectos destacados
 
-| Proyecto | Qué es |
-|---|---|
-| [nemedi-clinic](https://github.com/JuanchoVargas/nemedi-clinic) | ERP/CRM multi-tenant para clínicas estéticas (.NET, React, SQL Server). Código, pruebas y documentación con capturas. |
-| [ecommerce-disfraces](https://github.com/JuanchoVargas/ecommerce-disfraces) | Caso de estudio de la tienda en línea de Kustom Disfraces (Nuxt, WooCommerce, Mercado Pago, bot de ventas). Vitrina sin código. |
-| [disksafe](https://github.com/JuanchoVargas/disksafe) | Módulo de PowerShell para liberar espacio en `C:` de forma segura: analiza, recomienda, limpia y mueve. |
+| Proyecto | Qué es | En producción |
+|---|---|---|
+| [nemedi-clinic](https://github.com/JuanchoVargas/nemedi-clinic) | ERP/CRM multi-tenant para clínicas estéticas (.NET, React, SQL Server). Código, pruebas y documentación con capturas. | [clinic.nemedi.com](https://clinic.nemedi.com) |
+| [ecommerce-disfraces](https://github.com/JuanchoVargas/ecommerce-disfraces) | Caso de estudio de la tienda en línea de Kustom Disfraces (Nuxt, WooCommerce, Mercado Pago, bot de ventas). Vitrina sin código. | [disfraceskustom.com](https://www.disfraceskustom.com) |
+| [disksafe](https://github.com/JuanchoVargas/disksafe) | Módulo de PowerShell para liberar espacio en `C:` de forma segura: analiza, recomienda, limpia y mueve. | — |
 
 También tengo públicos el [CRM de gestión comercial](https://github.com/JuanchoVargas/crm-gestion-comercial) (.NET, EF Core, SQL Server, Vue 3) y una [prueba técnica en Blazor](https://github.com/JuanchoVargas/prueba-tecnica-blazor) (.NET 8, QuickGrid, xUnit).
 
