@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Juan%20Diego%20Vargas&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Bogot%C3%A1%2C%20Colombia&descSize=17&descAlignY=58" alt="Juan Diego Vargas · Ingeniero de Sistemas · Bogotá, Colombia" width="100%" />
+  <img src="assets/banner.png" alt="Juan Diego Vargas · Ingeniero de sistemas y especialista en seguridad de la información: construyo, opero y aseguro aplicaciones web" width="100%" />
 </p>
 
 <p align="center">
@@ -7,12 +7,15 @@
 </p>
 
 <p align="center">
+  <a href="https://juandiego.vargas.nom.co"><img src="https://img.shields.io/badge/Portafolio-juandiego.vargas.nom.co-B8F35A?style=for-the-badge&labelColor=0E1116" alt="Portafolio: juandiego.vargas.nom.co" /></a>
   <a href="https://www.linkedin.com/in/juandiegovargas1218"><img src="https://img.shields.io/badge/LinkedIn-juandiegovargas1218-0A66C2?style=for-the-badge" alt="LinkedIn: juandiegovargas1218" /></a>
   <a href="mailto:juandiegov2002@gmail.com"><img src="https://img.shields.io/badge/Correo-juandiegov2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: juandiegov2002@gmail.com" /></a>
   <img src="https://img.shields.io/badge/Ingl%C3%A9s-C1-2EA043?style=for-the-badge" alt="Inglés C1" />
 </p>
 
 ## Sobre mí
+
+<img src="assets/saludo.gif" alt="" align="right" width="150" />
 
 Desarrollo software a medida: aplicaciones web, CRM, comercio electrónico y sistemas para el sector salud. Construyo de punta a punta (API, base de datos e interfaz) y reviso cada sistema también desde el riesgo: credenciales, permisos y datos sensibles. Soy Ingeniero de Sistemas y Especialista en Seguridad de la Información.
 
@@ -35,6 +38,7 @@ Desarrollo software a medida: aplicaciones web, CRM, comercio electrónico y sis
 | [nemedi-clinic](https://github.com/JuanchoVargas/nemedi-clinic) | ERP/CRM multi-tenant para clínicas estéticas (.NET, React, SQL Server). Código, pruebas y documentación con capturas. | [clinic.nemedi.com](https://clinic.nemedi.com) |
 | [crm-gestion-comercial](https://github.com/JuanchoVargas/crm-gestion-comercial) | CRM/ERP multi-tenant para distribuidoras: catálogo, precios, compras, inventario, ventas y caja (.NET, EF Core, SQL Server, Vue 3). Código y pruebas. | [crm.nemedi.com](https://crm.nemedi.com) |
 | [ecommerce-disfraces](https://github.com/JuanchoVargas/ecommerce-disfraces) | Caso de estudio de la tienda en línea de Kustom Disfraces (Nuxt, WooCommerce, Mercado Pago, bot de ventas). Vitrina sin código. | [disfraceskustom.com](https://www.disfraceskustom.com) |
+| [portafolio-web](https://github.com/JuanchoVargas/portafolio-web) | El sitio de mi portafolio, con demos que se pueden usar: bot de ventas, agenda, cotización, cobro y permisos por rol (Astro, Vue 3, TypeScript). | [juandiego.vargas.nom.co](https://juandiego.vargas.nom.co) |
 | [disksafe](https://github.com/JuanchoVargas/disksafe) | Módulo de PowerShell para liberar espacio en `C:` de forma segura: analiza, recomienda, limpia y mueve. | — |
 
 También tengo pública una [prueba técnica en Blazor](https://github.com/JuanchoVargas/prueba-tecnica-blazor) (.NET 8, QuickGrid, xUnit).
